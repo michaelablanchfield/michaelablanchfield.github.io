@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Elements
+title: Virtual Art
 image: assets/images/pic01.jpg
 nav-menu: true
+order: 2
 ---
 
 <!-- Main -->
