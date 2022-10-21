@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virtual Art
-image: assets/images/pic01.jpg
+image: assets/images/pic06.jpg
 nav-menu: true
 order: 2
 ---
