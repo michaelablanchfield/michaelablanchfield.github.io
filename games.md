@@ -3,7 +3,7 @@ layout: page
 title: Games
 image: assets/images/pic01.jpg
 nav-menu: true
-order: 4
+order: 3
 ---
 
 <!-- Main -->
