@@ -31,7 +31,7 @@ order: 1
 	
 	
 	
-			<img src="assets/images/pic07.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic07.jpg" alt="" data-position="center center" style="width:200px;height:600px;" />
 			<iframe width="500" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			<br><iframe width="500" height="315" src="https://www.youtube.com/embed/9G4k8DBzBNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		
@@ -84,7 +84,7 @@ order: 1
 		</div>
 	</section>
 	<section>
-		<img src="pic06.jpg" alt="" style="width:600px;height:300px;">
+		<img src="pic06.jpg" alt="" style="width:500px;height:250px;">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
