@@ -37,7 +37,7 @@ order: 1
 				<i>Bachelor of Arts (Honours) in Game Design</i></h4>
 				
 				<small>
-				<br>1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
+				1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a>
 				<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
@@ -76,31 +76,41 @@ order: 1
 	<section>
 		
 			
-		</a>
+		
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Computer Skills</h3>
 				</header>
 				<p>
-				- **3D Graphics Software**
-				- Proficient with Autodesk 3ds Max, Autodesk Mudbox and Sketchup. 
-				- Familiar with Blender and Substance Painter. 
-				-
-				- **Game Engines** 
-				- Proficient with Unity3D. 
-				- Familiar with Unreal Engine and GameMaker Studio. 
-				-
-				- **Operating Systems**
-				- Proficient with Windows. 
-				- Familiar with Ubuntu and macOS. 
-				-
-				- **Photo Editing** 
-				- Proficient with Adobe Photoshop and GIMP. 
-				-
-				- **Miscellaneous** 
-				- Familiar with GitHub, Arduino, Android Studio and Panda3D. 
-				- Typing speed of approximately 80 words per minute. 				
+				<h4>3D Graphics Software</h4>
+				<small>
+				Proficient with Autodesk 3ds Max, Autodesk Mudbox and Sketchup. 
+				<br>Familiar with Blender and Substance Painter. 
+				</small>
+				
+				<h4>Game Engines</h4>
+				<small>
+				Proficient with Unity3D. 
+				<br>Familiar with Unreal Engine and GameMaker Studio. 
+				</small>
+				
+				<h4>Operating Systems</h4>
+				<small>
+				Proficient with Windows.
+				<br>Familiar with Ubuntu and macOS
+				</small>
+				
+				<h4>Photo Editing</h4>
+				<small>
+				Proficient with Adobe Photoshop and GIMP. 
+				</small>
+				
+				<h4>Miscellaneous</h4>
+				<small>
+				Familiar with GitHub, Arduino, Android Studio and Panda3D. 
+				<br>Typing speed of approximately 80 words per minute. 				
+				</small>
 				
 				</p>
 				
@@ -110,7 +120,7 @@ order: 1
 	<section>
 		
 			
-		</a>
+		
 		<div class="content">
 			<div class="inner">
 				<header class="major">
