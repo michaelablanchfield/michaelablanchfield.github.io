@@ -82,7 +82,7 @@ order: 1
 	</section>
 	<section>
 		
-			<img src="{% link assets/images/pic06.jpg %}" alt=""/>
+			<img src="{% link assets/images/pic06.jpg %}" alt="" data-position="center center" />
 	
 		<div class="content">
 			<div class="inner">
