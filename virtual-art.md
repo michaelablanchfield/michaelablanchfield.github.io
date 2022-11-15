@@ -3,7 +3,7 @@ layout: page
 title: Virtual Art
 image: assets/images/pic06.jpg
 nav-menu: true
-order: 4
+order: 3
 ---
 
 <!-- Main -->
