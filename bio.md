@@ -41,18 +41,18 @@ order: 1
 				<i>Bachelor of Arts (Honours) in Game Design</i></h4>
 				
 				<small>
-				1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating the logo, all the enviromental assets and a portion of the game's UI sprites.
+				1. Developed a fast-paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating the logo, all the environmental assets and a portion of the game's UI sprites.
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a>
 				
 				
 				<br><br>
 				
-				2. Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
+				2. Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the environmental assets and in-game character models.
 				<a href="https://kidzone.agrikids.ie/gamezone/farmyard-architect/">Play Farmyard Architect online here.</a>
 				
 				<br><br>
 				
-				3. Recreated a short cinematic scene from Netflix’s <i>Castlevania</i> (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
+				3. Recreated a short cinematic scene from Netflix’s <i>Castlevania</i> (2017) into 3D using the Unity3D engine in 2021 as an individual project. Evironmental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
 				
 				
 				
