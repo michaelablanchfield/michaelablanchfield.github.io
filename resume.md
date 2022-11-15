@@ -8,8 +8,8 @@ order: 6
 
 ---
 <center>
-<p><br><br>
-	<h1>Click to read my résumé here.<h1>
-</p>
+<br><br>
+	<h3>Click to read my résumé here.<h3>
+
 <button type="submit" onclick="window.open('Michaela_Blanchfield_CV_2022.pdf')">View</button>
 </center>
