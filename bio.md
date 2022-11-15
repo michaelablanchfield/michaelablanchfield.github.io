@@ -35,7 +35,9 @@ order: 1
 				<h5><i>Bachelor of Arts (Honours) in Game Design</i></h5>
 				<p>Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.</p>
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io</a>
-				<embed type="video/webm" src="ventilate.mp4" width="400" height="300">
+				<video width="320" height="240" controls>
+					<source src="{% link assets/images/ventilate.mp4 %}" type="video/mp4">
+				</video>
 				
 
 				
