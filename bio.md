@@ -49,7 +49,7 @@ order: 1
 				2. Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
 				<a href="https://kidzone.agrikids.ie/gamezone/farmyard-architect/">Play Farmyard Architect online here.</a>
 				
-				<br>
+				<br><br>
 				
 				3. Recreated a short cinematic scene from Netflix’s <i>Castlevania</i> (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
 				
@@ -60,7 +60,7 @@ order: 1
 				4. Modelled an isometric room interior which conveys environmental storytelling based on the fictional video-game character Aiden Pearce from Watch_Dogs (2014), which received a grade of 85%.
 				<a href="https://sketchfab.com/3d-models/aiden-pearces-hideout-3b2109a98569409a86eeb07ac3aeef03">It is available for viewing on my Sketchfab profile.</a> 
 				
-				<br>
+				<br><br>
 				
 				5. Awarded the 1916 Bursary Fund scholarship (2019-2022).
 				</small>
