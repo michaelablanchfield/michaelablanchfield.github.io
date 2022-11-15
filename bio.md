@@ -84,7 +84,7 @@ order: 1
 		</div>
 	</section>
 	<section>
-		<img src="pic06.jpg" alt="" style="width:500px;height:250px;">
+		<img src="pic06.png" alt="" style="width:400px;height:250px;">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
