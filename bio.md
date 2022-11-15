@@ -81,9 +81,7 @@ order: 1
 		</div>
 	</section>
 	<section>
-		
-			<img src="{% link assets/images/pic06.jpg %}" alt="" data-position="center center" />
-	
+		<img src="pic06.jpg.jpg" alt="">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
