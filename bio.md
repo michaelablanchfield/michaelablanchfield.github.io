@@ -33,37 +33,38 @@ order: 1
 				</header>
 				
 				<p>
-				<h5>Technological University of Dublin, 1st Class Honours: 2018 – 2022</h5>
-				<h5><i>Bachelor of Arts (Honours) in Game Design</i></h5>
+				<h3>Technological University of Dublin, 1st Class Honours: 2018 – 2022</h3>
+				<h3><i>Bachelor of Arts (Honours) in Game Design</i></h3>
 				
 				
-				<br>Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
+				<br>1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a>
 				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
-				<br><br>
+				<br>
 				
-				Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
+				2. Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
 				<br><a href="https://kidzone.agrikids.ie/gamezone/farmyard-architect/">Play Farmyard Architect online here.</a>
 				
 				<br><br>
 				
-				Recreated a short cinematic scene from Netflix’s Castlevania (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
+				3.Recreated a short cinematic scene from Netflix’s Castlevania (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
 				
 				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/9G4k8DBzBNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 				<br><br>
 				
-				Modelled an isometric room interior which conveys environmental storytelling based on the fictional video-game character Aiden Pearce from Watch_Dogs (2014), which received a grade of 85%.
+				4. Modelled an isometric room interior which conveys environmental storytelling based on the fictional video-game character Aiden Pearce from Watch_Dogs (2014), which received a grade of 85%.
 				<br><a href="https://sketchfab.com/3d-models/aiden-pearces-hideout-3b2109a98569409a86eeb07ac3aeef03">It is available for viewing on my Sketchfab profile here.</a> 
 				
 				<br><br>
 				
-				Awarded the 1916 Bursary Fund scholarship (2019-2022).
+				5. Awarded the 1916 Bursary Fund scholarship (2019-2022).
 					
-								
-				<h5>Greenhills Community College: 2017 – 2018</h5>
-				<h5><i>Software Development with Games Design (Level 5)</i></h5>
+				<br><br>
+				
+				<h3>Greenhills Community College: 2017 – 2018</h3>
+				<h3><i>Software Development with Games Design (Level 5)</i></h3>
 				
 				
 				Achieved seven out of eight Distinctions. 
@@ -74,7 +75,7 @@ order: 1
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		
 			
 		</a>
 		<div class="content">
@@ -82,7 +83,8 @@ order: 1
 				<header class="major">
 					<h3>Computer Skills</h3>
 				</header>
-				<p>- **3D Graphics Software**
+				<p>
+				- **3D Graphics Software**
 				- Proficient with Autodesk 3ds Max, Autodesk Mudbox and Sketchup. 
 				- Familiar with Blender and Substance Painter. 
 				-
@@ -107,7 +109,7 @@ order: 1
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		
 			
 		</a>
 		<div class="content">
@@ -133,7 +135,7 @@ order: 1
 		<header class="major">
 			<h2>Contact me.</h2>
 		</header>
-		<p>Contact me using the message box below or email me at **me@michaelablanchfield.com** </p>
+		<p>Use the message box below or email me at **me@michaelablanchfield.com** </p>
 		
 	</div>
 </section>
