@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Licensing
-image: assets/images/pic10.jpg
+title: N/A2
 nav-menu: true
-order: 15
+order: 4
 ---
 
 <!-- Main -->
