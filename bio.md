@@ -39,12 +39,7 @@ order: 1
 					<source src="{ventilate.mp4" type="video/mp4">
 				</video>
 				
-
-				
-				
-				- 
-				-
-				- Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
+				<p>Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.</p>
 				- Play Farmyard Architect online [here on AgriKids.ie](https://kidzone.agrikids.ie/gamezone/farmyard-architect/)
 				-
 				- Recreated a short cinematic scene from Netflix’s Castlevania (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
