@@ -36,7 +36,7 @@ order: 1
 				<h4>Technological University of Dublin, 1st Class Honours: 2018 – 2022 <br>
 				<i>Bachelor of Arts (Honours) in Game Design</i></h4>
 				
-				
+				<small>
 				<br>1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a>
 				<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -55,18 +55,19 @@ order: 1
 				<br><br>
 				
 				4. Modelled an isometric room interior which conveys environmental storytelling based on the fictional video-game character Aiden Pearce from Watch_Dogs (2014), which received a grade of 85%.
-				<br><a href="https://sketchfab.com/3d-models/aiden-pearces-hideout-3b2109a98569409a86eeb07ac3aeef03">It is available for viewing on my Sketchfab profile.</a> 
+				<a href="https://sketchfab.com/3d-models/aiden-pearces-hideout-3b2109a98569409a86eeb07ac3aeef03">It is available for viewing on my Sketchfab profile.</a> 
 				
 				<br><br>
 				
 				5. Awarded the 1916 Bursary Fund scholarship (2019-2022).
-					
+				</small>
 				<br><br>
 				
 				<h4>Greenhills Community College: 2017 – 2018<br>
 				<i>Software Development with Games Design (Level 5)</i></h4>
-				
+				<small>
 				Learnt the basics of software architecture, web authoring, app development, C# and Java programming. Achieved seven out of eight Distinctions. 
+				</small>
 				</p>
 				
 			</div>
@@ -133,7 +134,7 @@ order: 1
 		<header class="major">
 			<h2>Contact me.</h2>
 		</header>
-		<p>Use the message box below or email me at **me@michaelablanchfield.com** </p>
+		<p>Use the message box below or email me at <u>me@michaelablanchfield.com</u> </p>
 		
 	</div>
 </section>
