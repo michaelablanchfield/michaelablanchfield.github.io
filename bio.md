@@ -20,8 +20,7 @@ order: 1
 		<p>I am Michaela Blanchfield, a virtual artist and game designer living in Dublin, Ireland. I am driven to hone my craft, master the tools of my trade, work towards the cutting-edge and succeed at ever-more ambitious projects. I have a keen interest in pursuing and creating 3D assets that are visually beautiful. I am a firm believer that ensuring the quality of both of these technical and visual elements of a project will result in a happier team and an awesome product overall. I am excited by the future of virtual art as it crosses over between games, movies, television and virtual reality experiences as it is enjoyed by millions of people. I like to work hard, be challenged, make my contribution and consistently improve my skills. If I can do this at your company, then I would be interested in working with you. I have always had a passion for the artistic and visual aspect of game development, and I always strive to bring originality into my work. My long-term goal is to build a successful career as a virtual artist in the games industry.</p>
 		
 		<p>Aside from my work, I enjoy experiencing the world, whether that is 
-		<a href="glep.jpg">knitting</a>
-		/ <a href="felt.jpg">felt-crafting</a> cute things, crafting miniature houses with cardboard, recording memorable dreams/nightmares into my diary, sewing miniature clothing and contemplating the very meaning of my existence in this seemingly infinite universe. I find that there is so much interesting stuff in the world and I am always looking for ways to learn new things.
+		<a href="glep.jpg">knitting/felt-crafting</a> cute things, crafting <a href="house.jpg">miniature houses</a> with cardboard, recording memorable dreams/nightmares into my <a href="diary.jpg">diary</a>, sewing <a href="clothing.jpg">miniature clothing</a> and contemplating the very meaning of my existence in this seemingly infinite universe. I find that there is so much interesting stuff in the world and I am always looking for ways to learn new things.
 		</p>
 	</div>
 </section>
@@ -96,22 +95,22 @@ order: 1
 				<b>3D Graphics Software:</b>
 				<small>
 				Sketchup, Autodesk 3ds Max, Autodesk Mudbox, Blender and Substance Painter.
-				</small>
+				<br></small>
 				
 				<b>Game Engines:</b>
 				<small>
 				Unity3D and Unreal Engine.
-				</small>
+				<br></small>
 				
 				<b>Operating Systems:</b>
 				<small>
 				Proficient with Windows. Familiar with Ubuntu and macOS.
-				</small>
+				<br></small>
 				
 				<b>Photo Editing:</b>
 				<small>
 				Adobe Photoshop and GIMP.
-				</small>
+				<br></small>
 				
 				<b>Miscellaneous:</b>
 				<small>
