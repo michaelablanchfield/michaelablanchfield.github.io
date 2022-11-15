@@ -39,23 +39,23 @@ order: 1
 				
 				<br>1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a>
-				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				
-				<br>
-				
-				2. Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
-				<br><a href="https://kidzone.agrikids.ie/gamezone/farmyard-architect/">Play Farmyard Architect online here.</a>
+				<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 				<br><br>
 				
-				3.Recreated a short cinematic scene from Netflix’s Castlevania (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
+				2. Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
+				<a href="https://kidzone.agrikids.ie/gamezone/farmyard-architect/">Play Farmyard Architect online here.</a>
 				
-				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/9G4k8DBzBNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				<br><br>
+				
+				3. Recreated a short cinematic scene from Netflix’s Castlevania (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
+				
+				<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/9G4k8DBzBNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 				<br><br>
 				
 				4. Modelled an isometric room interior which conveys environmental storytelling based on the fictional video-game character Aiden Pearce from Watch_Dogs (2014), which received a grade of 85%.
-				<br><a href="https://sketchfab.com/3d-models/aiden-pearces-hideout-3b2109a98569409a86eeb07ac3aeef03">It is available for viewing on my Sketchfab profile here.</a> 
+				<br><a href="https://sketchfab.com/3d-models/aiden-pearces-hideout-3b2109a98569409a86eeb07ac3aeef03">It is available for viewing on my Sketchfab profile.</a> 
 				
 				<br><br>
 				
@@ -66,9 +66,7 @@ order: 1
 				<h4>Greenhills Community College: 2017 – 2018<br>
 				<i>Software Development with Games Design (Level 5)</i></h4>
 				
-				
-				Achieved seven out of eight Distinctions. 
-				<br>Learnt the basics of software architecture, web authoring, app development, C# and Java programming.
+				Learnt the basics of software architecture, web authoring, app development, C# and Java programming. Achieved seven out of eight Distinctions. 
 				</p>
 				
 			</div>
