@@ -25,7 +25,8 @@ order: 1
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="center center" />
-			<br>				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<br><iframe width="560" height="315" src="https://www.youtube.com/embed/9G4k8DBzBNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</a>
 		
 		<div class="content">
@@ -41,7 +42,7 @@ order: 1
 				<small>
 				1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating the logo, all the enviromental assets and a portion of the game's UI sprites.
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a>
-				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				
 				
 				<br><br>
 				
@@ -52,7 +53,7 @@ order: 1
 				
 				3. Recreated a short cinematic scene from Netflix’s <i>Castlevania</i> (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
 				
-				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/9G4k8DBzBNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				
 				
 				<br><br>
 				
