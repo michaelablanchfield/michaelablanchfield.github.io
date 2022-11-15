@@ -130,11 +130,12 @@ order: 1
 				<header class="major">
 					<h3>Skills & Interests</h3>
 				</header>
-				<p>- **Skills**
-				- Creativity, artistic interest, attention to detail, visual thinking, time management, problem-solving, persistence, strong work ethic & honesty.
-				- 
-				- **Interests** 
-				- Drawing, painting, computerized 3D modelling, gaming. 
+				<p><b>Skills</b>
+				<br><small>Creativity, artistic interest, attention to detail, visual thinking, time management, problem-solving, persistence, strong work ethic & honesty.
+				</small>
+				<b>Interests</b>
+				<br></small>Drawing, painting, computerized 3D modelling, gaming. 
+				</small>
 				</p>
 			
 			</div>
