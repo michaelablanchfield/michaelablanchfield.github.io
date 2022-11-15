@@ -6,7 +6,6 @@ image: assets/images/pic09.jpg
 nav-menu: true
 order: 6
 
-
 ---
 <center>
 <br><br>
