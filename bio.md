@@ -33,8 +33,8 @@ order: 1
 				</header>
 				
 				<p>
-				<h3>Technological University of Dublin, 1st Class Honours: 2018 – 2022</h3>
-				<h3><i>Bachelor of Arts (Honours) in Game Design</i></h3>
+				<h4>Technological University of Dublin, 1st Class Honours: 2018 – 2022 <br>
+				<i>Bachelor of Arts (Honours) in Game Design</i></h4>
 				
 				
 				<br>1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
@@ -63,8 +63,8 @@ order: 1
 					
 				<br><br>
 				
-				<h3>Greenhills Community College: 2017 – 2018</h3>
-				<h3><i>Software Development with Games Design (Level 5)</i></h3>
+				<h4>Greenhills Community College: 2017 – 2018<br>
+				<i>Software Development with Games Design (Level 5)</i></h4>
 				
 				
 				Achieved seven out of eight Distinctions. 
