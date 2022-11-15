@@ -8,7 +8,7 @@ order: 6
 
 ---
 
-<p>
-	Download my résumé here.
+<p><br><br>
+	Click to read my résumé here.
 </p>
-<button type="submit" onclick="window.open('Michaela_Blanchfield_CV_2022.pdf')">Download</button>
+<button type="submit" onclick="window.open('Michaela_Blanchfield_CV_2022.pdf')">View</button>
