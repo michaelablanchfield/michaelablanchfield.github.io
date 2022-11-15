@@ -83,30 +83,30 @@ order: 1
 					<h3>Computer Skills</h3>
 				</header>
 				<p>
-				<h4>3D Graphics Software</h4>
+				<b>3D Graphics Software</b>
 				<small>
 				Proficient with Autodesk 3ds Max, Autodesk Mudbox and Sketchup. 
 				<br>Familiar with Blender and Substance Painter. 
 				</small>
 				
-				<h4>Game Engines</h4>
+				<b>Game Engines</b>
 				<small>
 				Proficient with Unity3D. 
 				<br>Familiar with Unreal Engine and GameMaker Studio. 
 				</small>
 				
-				<h4>Operating Systems</h4>
+				<b>Operating Systems</b>
 				<small>
 				Proficient with Windows.
 				<br>Familiar with Ubuntu and macOS
 				</small>
 				
-				<h4>Photo Editing</h4>
+				<b>Photo Editing</b>
 				<small>
 				Proficient with Adobe Photoshop and GIMP. 
 				</small>
 				
-				<h4>Miscellaneous</h4>
+				<b>Miscellaneous</b>
 				<small>
 				Familiar with GitHub, Arduino, Android Studio and Panda3D. 
 				<br>Typing speed of approximately 80 words per minute. 				
