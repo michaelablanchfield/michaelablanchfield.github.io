@@ -26,6 +26,7 @@ order: 1
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="center center" />
 		</a>
+						<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -37,7 +38,7 @@ order: 1
 				<i>Bachelor of Arts (Honours) in Game Design</i></h4>
 				
 				<small>
-				1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
+				1. Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating the logo, all the enviromental assets and a portion of the game's UI sprites.
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a>
 				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
@@ -48,7 +49,7 @@ order: 1
 				
 				<br>
 				
-				3. Recreated a short cinematic scene from Netflix’s Castlevania (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
+				3. Recreated a short cinematic scene from Netflix’s <i>Castlevania</i> (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
 				
 				<br><iframe width="560" height="315" src="https://www.youtube.com/embed/9G4k8DBzBNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
