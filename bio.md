@@ -81,7 +81,7 @@ order: 1
 		</div>
 	</section>
 	<section>
-		<img src="pic06.jpg.jpg" alt="">
+		<img src="pic06.jpg.jpg" alt="" style="width:500px;height:250px;">
 		<div class="content">
 			<div class="inner">
 				<header class="major">
