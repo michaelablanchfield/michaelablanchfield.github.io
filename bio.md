@@ -132,10 +132,10 @@ order: 1
 				</header>
 				<p><b>Skills</b>
 				<br><small>Creativity, artistic interest, attention to detail, visual thinking, time management, problem-solving, persistence, strong work ethic & honesty.
-				</small>
+				</small><br>
 				<b>Interests</b>
-				<br></small>Drawing, painting, computerized 3D modelling, gaming. 
-				</small>
+				<br>Drawing, painting, computerized 3D modelling, gaming. 
+				
 				</p>
 			
 			</div>
