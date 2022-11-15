@@ -1,7 +1,7 @@
 ---
 title: Bio
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Education & Skills'
 image: assets/images/pic07.jpg
 nav-menu: true
 order: 1
@@ -15,9 +15,9 @@ order: 1
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>About me.</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>I am Michaela Blanchfield, a virtual artist and game designer. I am driven to hone my craft, master the tools of my trade, work towards the cutting-edge and succeed at ever-more ambitious projects. I am excited by the future of virtual art as it crosses over between games, movies, television and virtual reality experiences as it is enjoyed by millions of people. I like to work hard, be challenged, make my contribution and consistently improve my skills. If I can do this at your company, then I would be interested in working with you. I have always had a passion for the artistic and visual aspect of game development, and I always strive to bring originality into my work. My long-term goal is to build a successful career as a virtual artist in the games industry. </p>
 	</div>
 </section>
 
@@ -25,49 +25,91 @@ order: 1
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Education</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>- **Technological University of Dublin, 1st Class Honours: 2018 – 2022** 
+				- *Bachelor of Arts (Honours) in Game Design*
+				-
+				- Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
+				- View the trailer for Ventilate [here](https://www.youtube.com/watch?v=-R_XtMnkS4s)
+				- Download Ventilate from our itch.io page [here](https://inkfoxstudios.itch.io/ventilate)
+				-
+				- Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
+				- Play Farmyard Architect online [here on AgriKids.ie](https://kidzone.agrikids.ie/gamezone/farmyard-architect/)
+				-
+				- Recreated a short cinematic scene from Netflix’s Castlevania (2017) into 3D using the Unity3D engine in 2021 as an individual project. Enviromental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.
+				- Watch it [here on YouTube](https://www.youtube.com/watch?v=9G4k8DBzBNg)
+				-
+				- Modelled an isometric room interior which conveys environmental storytelling based on the fictional video-game character Aiden Pearce from Watch_Dogs (2014), which received a grade of 85%. 
+				- It is available for viewing on my [Sketchfab profile](https://sketchfab.com/3d-models/aiden-pearces-hideout-3b2109a98569409a86eeb07ac3aeef03) 
+				-
+				- Awarded the 1916 Bursary Fund scholarship (2019-2022). 
+				-
+				-
+				- **Greenhills Community College: 2017 – 2018 **
+				- *Software Development with Games Design (Level 5) *
+				
+				- Achieved seven out of eight Distinctions. 
+				-     Learnt the basics of software architecture, web authoring, app development, C# and Java programming.
+				</p>
+				
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Computer Skills</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>- **3D Graphics Software**
+				- Proficient with Autodesk 3ds Max, Autodesk Mudbox and Sketchup. 
+				- Familiar with Blender and Substance Painter. 
+				-
+				- **Game Engines** 
+				- Proficient with Unity3D. 
+				- Familiar with Unreal Engine and GameMaker Studio. 
+				-
+				- **Operating Systems**
+				- Proficient with Windows. 
+				- Familiar with Ubuntu and macOS. 
+				-
+				- **Photo Editing** 
+				- Proficient with Adobe Photoshop and GIMP. 
+				-
+				- **Miscellaneous** 
+				- Familiar with GitHub, Arduino, Android Studio and Panda3D. 
+				- Typing speed of approximately 80 words per minute. 				
+				
+				</p>
+				
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Skills & Interests</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				<p>- **Skills**
+				- Creativity, artistic interest, attention to detail, visual thinking, time management, problem-solving, persistence, strong work ethic & honesty.
+				- 
+				- **Interests** 
+				- Drawing, painting, computerized 3D modelling, gaming. 
+				</p>
+			
 			</div>
 		</div>
 	</section>
@@ -77,12 +119,10 @@ order: 1
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Contact me.</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>Contact me using the message box below or email me at **me@michaelablanchfield.com** </p>
+		
 	</div>
 </section>
 
