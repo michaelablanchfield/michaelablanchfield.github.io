@@ -2,6 +2,7 @@
 title: Bio
 layout: landing
 description: 'Education & Skills'
+image: assets/images/pic07.jpg
 nav-menu: true
 order: 1
 
