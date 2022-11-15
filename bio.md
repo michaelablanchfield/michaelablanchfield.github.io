@@ -36,7 +36,7 @@ order: 1
 				<p>Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.</p>
 				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io</a>
 				<video width="320" height="240" controls>
-					<source src="{ventilate.mp4" type="video/mp4">
+					<source src="{ventilate.wav" type="video/wav">
 				</video>
 				
 				<p>Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.</p>
