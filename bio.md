@@ -26,7 +26,7 @@ order: 1
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic07.jpg %}" alt="" data-position="center center" />
 		</a>
-						<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -83,6 +83,7 @@ order: 1
 				<header class="major">
 					<h3>Computer Skills</h3>
 				</header>
+								<br><iframe width="560" height="315" src="https://www.youtube.com/embed/-R_XtMnkS4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				<p>
 				<b>3D Graphics Software</b><br>
 				<small>
