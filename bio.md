@@ -2,7 +2,6 @@
 title: Bio
 layout: landing
 description: 'Education & Skills'
-image: assets/images/pic07.jpg
 nav-menu: true
 order: 1
 
@@ -15,9 +14,9 @@ order: 1
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>About me.</h2>
+			<h2>About me</h2>
 		</header>
-		<p>I am Michaela Blanchfield, a virtual artist and game designer. I am driven to hone my craft, master the tools of my trade, work towards the cutting-edge and succeed at ever-more ambitious projects. I am excited by the future of virtual art as it crosses over between games, movies, television and virtual reality experiences as it is enjoyed by millions of people. I like to work hard, be challenged, make my contribution and consistently improve my skills. If I can do this at your company, then I would be interested in working with you. I have always had a passion for the artistic and visual aspect of game development, and I always strive to bring originality into my work. My long-term goal is to build a successful career as a virtual artist in the games industry. </p>
+		<p>I am Michaela Blanchfield, a virtual artist and game designer living in Dublin, Ireland. I am driven to hone my craft, master the tools of my trade, work towards the cutting-edge and succeed at ever-more ambitious projects. I am excited by the future of virtual art as it crosses over between games, movies, television and virtual reality experiences as it is enjoyed by millions of people. I like to work hard, be challenged, make my contribution and consistently improve my skills. If I can do this at your company, then I would be interested in working with you. I have always had a passion for the artistic and visual aspect of game development, and I always strive to bring originality into my work. My long-term goal is to build a successful career as a virtual artist in the games industry. </p>
 	</div>
 </section>
 
@@ -32,12 +31,16 @@ order: 1
 				<header class="major">
 					<h3>Education</h3>
 				</header>
-				<p>- **Technological University of Dublin, 1st Class Honours: 2018 – 2022** 
-				- *Bachelor of Arts (Honours) in Game Design*
-				-
-				- Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.
-				- View the trailer for Ventilate [here](https://www.youtube.com/watch?v=-R_XtMnkS4s)
-				- Download Ventilate from our itch.io page [here](https://inkfoxstudios.itch.io/ventilate)
+				<p><h5><b>Technological University of Dublin, 1st Class Honours: 2018 – 2022**</b></h5>
+				<h5><i>Bachelor of Arts (Honours) in Game Design</i></h5>
+				<h6>Developed a fast paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team with four friends. I was responsible for creating all the enviromental assets along with a portion of the game's UI sprites.</h6>
+				<a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from our itch.io page</a>
+
+				<iframe width="420" height="315"
+					src="https://www.youtube.com/watch?v=-R_XtMnkS4s">
+				</iframe> 
+				
+				- 
 				-
 				- Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team with four friends, where I was responsible for creating all the enviromental assets and in-game character models.
 				- Play Farmyard Architect online [here on AgriKids.ie](https://kidzone.agrikids.ie/gamezone/farmyard-architect/)
