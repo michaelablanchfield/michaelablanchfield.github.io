@@ -11,8 +11,17 @@
 <body>
     <script type="text/javascript">document.body.classList.add("is-loading");</script>
 
-    {% include header.html %} {{ content }} {% include footer.html %}
-
+    {% include header.html %} 
+	{% if page.markdown == true %}
+		<div id="main">
+			<div class="inner">
+				{{ content }} 
+			</div>
+		</div>
+	{% else %}
+		{{ content }} 
+	{% endif %}
+	{% include footer.html %}
 </body>
 
 </html>
