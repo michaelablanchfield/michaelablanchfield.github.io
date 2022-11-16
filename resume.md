@@ -11,9 +11,6 @@ markdown: true
 ---
 
 # Résumé 
-Click <a href="/Michaela_Blanchfield_CV_2022.pdf">here</a> to download my résumé [PDF].
-
-# Michaela Blanchfield
 
 I am a virtual artist and game designer. I am driven to hone my craft, master the tools
 of my trade, work towards the cutting-edge and succeed at ever-more ambitious projects. I am excited by the
