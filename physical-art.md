@@ -3,7 +3,8 @@ layout: page
 title: Physical Art
 image: assets/images/pic09.jpg
 nav-menu: true
-order: 15
+show-tile: true
+order: 7
 ---
 
 <!-- Main -->
