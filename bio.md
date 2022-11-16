@@ -1,4 +1,3 @@
-
 ---
 title: Bio
 layout: landing
