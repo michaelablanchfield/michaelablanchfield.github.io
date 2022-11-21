@@ -15,7 +15,7 @@ order: 3
 <section id="one">
 	<div class="inner">
 		<p>
-		One of my hobbies is drawing and painting on real life surfaces! Shown below is a select view of what I percieve to be some of my highest quality pieces of physical art.
+		One of my hobbies is drawing and painting on real life surfaces! Shown below is a select few of what I percieve to be some of my highest quality pieces of physical art.
 		</p>
 	</div>
 </section>
