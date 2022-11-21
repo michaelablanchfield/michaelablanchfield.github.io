@@ -1,6 +1,6 @@
 ---
 layout: page
-title: N/A2
+title: N/A
 image: assets/images/banner.jpg
 nav-menu: true
 show-tile: true
