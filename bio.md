@@ -132,7 +132,7 @@ order: 1
 		<header class="major">
 			<h2>Contact me</h2>
 		</header>
-		<p>Like or hate anything you see? Message me below or email me at <u>me@michaelablanchfield.com</u>. I'll try and get back to you as soon as possible. </p>
+		<p>Message me below or email me at <u>me@michaelablanchfield.com</u>. I'll try and get back to you as soon as possible. </p>
 		
 	</div>
 </section>
