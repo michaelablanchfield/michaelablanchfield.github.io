@@ -1,6 +1,6 @@
 ---
 layout: page
-title: N/A1
+title: Games
 description: Lorem ipsum dolor est
 image: assets/images/banner.jpg
 nav-menu: true
