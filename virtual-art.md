@@ -32,7 +32,7 @@ order: 2
 		<div class="content">
 			<div class="inner">
 				
-				The Sketchfab.com community team shared this downloadable model 'Grand Classic Edwardian Dining Armchair' on Facebook, Twitter and their official ‘Featured Free Downloads’ collection. I was sent a postcard from Sketchfab as acknowledgement of their appreciation.
+				The Sketchfab.com community team shared my downloadable model 'Grand Classic Edwardian Dining Armchair' on Facebook, Twitter and their official ‘Featured Free Downloads’ collection. I was sent a postcard from Sketchfab as acknowledgement of their appreciation.
 				<img src="/assets/images/pic01.jpg" alt="" data-position="center center" />
 				
 				<br>
