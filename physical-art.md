@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Physical Art
-image: assets/images/pic06.jpg
+image: assets/images/pic08.jpg
 nav-menu: true
 show-tile: true
 order: 3
