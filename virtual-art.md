@@ -34,6 +34,8 @@ order: 2
 				
 				The Sketchfab.com community team shared this downloadable model 'Grand Classic Edwardian Dining Armchair' on Facebook, Twitter and their official ‘Featured Free Downloads’ collection. I was sent a postcard from Sketchfab as acknowledgement of their appreciation.
 				<img src="/assets/images/pic01.jpg" alt="" data-position="center center" />
+				
+				<br>
 				<div class="sketchfab-embed-wrapper"> <iframe title="Grand Classic Edwardian Dining Armchair" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="487" src="https://sketchfab.com/models/f0fc141ea1dd4018a3134846a3a950b9/embed?autostart=1&ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/grand-classic-edwardian-dining-armchair-f0fc141ea1dd4018a3134846a3a950b9?utm_medium=embed&utm_campaign=share-popup&utm_content=f0fc141ea1dd4018a3134846a3a950b9" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Grand Classic Edwardian Dining Armchair </a> by <a href="https://sketchfab.com/michaelablanchfield?utm_medium=embed&utm_campaign=share-popup&utm_content=f0fc141ea1dd4018a3134846a3a950b9" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Michaela Blanchfield </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f0fc141ea1dd4018a3134846a3a950b9" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 				
 				<br>				
