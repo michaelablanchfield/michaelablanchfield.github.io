@@ -12,14 +12,7 @@ markdown: true
 
 # Résumé 
 
-I am a virtual artist and game designer. I am driven to hone my craft, master the tools
-of my trade, work towards the cutting-edge and succeed at ever-more ambitious projects. I am excited by the
-future of virtual art as it crosses over between games, movies, television and virtual reality experiences as it
-is enjoyed by millions of people. I like to work hard, be challenged, make my contribution and consistently
-improve my skills. If I can do this at your company, then I would be interested in working with you. I have
-always had a passion for the artistic and visual aspect of game development, and I always strive to bring
-originality into my work. My long-term goal is to build a successful career as a virtual artist in the games
-industry.
+I am Michaela Blanchfield, a virtual artist and game designer living in Dublin, Ireland. I am driven to hone my craft, master the tools of my trade, work towards the cutting-edge and succeed at ever-more ambitious projects. I have a keen interest in pursuing and creating 3D assets that are visually beautiful. I am a firm believer that ensuring the quality of both of these technical and visual elements of a project will result in a happier team and an awesome product overall. I am excited by the future of virtual art as it crosses over between games, movies, television and virtual reality experiences as it is enjoyed by millions of people. I like to work hard, be challenged, make my contribution and consistently improve my skills. If I can do this at your company, then I would be interested in working with you. I have always had a passion for the artistic and visual aspect of game development, and I always strive to bring originality into my work. My long-term goal is to build a successful career as a virtual artist in the games industry.
 
 ## EDUCATION
 
