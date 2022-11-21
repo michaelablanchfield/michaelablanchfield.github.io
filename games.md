@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Games
-description: Lorem ipsum dolor est
-image: assets/images/banner.jpg
+image: assets/images/pic03.jpg
 nav-menu: true
 show-tile: true
 order: 4
