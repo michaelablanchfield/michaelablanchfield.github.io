@@ -42,7 +42,7 @@ order: 2
 				<div class="sketchfab-embed-wrapper"> <iframe title="Four-Poster Canopy Bed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/b0b0400f550545cbb75aa5a4da2e90c7/embed"> </iframe> </div>
 				
 				<br>
-				Thhe model "Gothic Cabinet Bookcase" was added to Sketchfab's "Top 10 - Week 2022-49" collection, <a href="https://sketchfab.com/Sketchfab/collections/top-10-week-2022-49-e2ebca905dc44e5ea4b24fb4db63e650">Click here to see!</a> 
+				The model "Gothic Cabinet Bookcase" was added to Sketchfab's "Top 10 - Week 2022-49" collection. <a href="https://sketchfab.com/Sketchfab/collections/top-10-week-2022-49-e2ebca905dc44e5ea4b24fb4db63e650">Click here to see!</a> 
 				<div class="sketchfab-embed-wrapper"> <iframe title="Gothic Cabinet Bookcase" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/c1c25c7c20fe40468a646318fe80f800/embed"> </iframe> </div>
 
 				<br>
