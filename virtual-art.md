@@ -49,10 +49,7 @@ order: 2
 
 				<br>
 				<div class="sketchfab-embed-wrapper"> <iframe title="Tiffany Lamp" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/75be23a28d5949eab9b872431384e41a/embed"> </iframe> </div>
-				
-				<br>
-				<div class="sketchfab-embed-wrapper"> <iframe title="Classic Edwardian Wall Curio Shelf" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/34050ad96b524512bc5e8c88a20e2915/embed"> </iframe> </div>
-				
+								
 				<br>
 				<div class="sketchfab-embed-wrapper"> <iframe title="Aiden Pearce's Hideout" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/3b2109a98569409a86eeb07ac3aeef03/embed"> </iframe> </div>
 				
