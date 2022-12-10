@@ -15,7 +15,7 @@ order: 2
 <section id="one">
 	<div class="inner">
 		<p>
-		My favourite hobby is making 3D game assets. I like to think that I'm proficient with architectural and inorganic object modelling, particularly of the gothic, medieval and vintage kind. I always catch myself admiring such architecture I stumble across in the real world and mulling it over in my head regarding how I would go about modelling it. Having just recently graduated university with a 1st Class Honours in Game Design, I'm trilled to finally have more recreational time to dedicate myself more to my virtual artwork. I'm always collecting photos of things I like the look of as references and inspiration for future art pieces. Eventually I hope to start selling my 3D models online once I deem my skills to have advanced sufficiently for them to be worthy enough of a pricetag.
+		My favourite hobby is making 3D game assets. I like to think that I'm proficient with architectural and inorganic object modelling, particularly of the gothic, medieval and vintage kind. I always catch myself admiring such architecture I stumble across in the real world and mulling it over in my head regarding how I would go about modelling it. Having just recently graduated university with a 1st Class Honours in Game Design, I'm trilled to finally have more recreational time to dedicate myself more to my virtual artwork. I'm always collecting photos of things I like the look of as references and inspiration for future art pieces.
 		</p>
 		<p>
 		Shown below is a select few of what I percieve to be some of my highest quality pieces of virtual art. <a href="https://sketchfab.com/michaelablanchfield/models">Check of my Sketchfab profile here.</a> 
