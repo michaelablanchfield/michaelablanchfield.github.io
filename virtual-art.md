@@ -38,6 +38,9 @@ order: 2
 				<br>
 				<div class="sketchfab-embed-wrapper"> <iframe title="Grand Classic Edwardian Dining Armchair" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/f0fc141ea1dd4018a3134846a3a950b9/embed"> </iframe> </div>
 				
+				<br>
+				<div class="sketchfab-embed-wrapper"> <iframe title="Classic China Cabinet" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/1074fd7c3da04abbbe8fa189185c16e7/embed"> </iframe> </div>
+				
 				<br>				
 				<div class="sketchfab-embed-wrapper"> <iframe title="Four-Poster Canopy Bed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/b0b0400f550545cbb75aa5a4da2e90c7/embed"> </iframe> </div>
 				
