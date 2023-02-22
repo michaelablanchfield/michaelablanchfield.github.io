@@ -31,6 +31,9 @@ order: 2
 	<section>
 		<div class="content">
 			<div class="inner">
+
+				<br>
+				<div class="sketchfab-embed-wrapper"> <iframe title="Aristocratic Mansion" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="1024" height="512" src="https://sketchfab.com/models/d7b76d41a29e455c998374850e4db7e5/embed"> </iframe> </div>
 				
 				The Sketchfab.com community team shared my downloadable model 'Grand Classic Edwardian Dining Armchair' on Facebook, Twitter and their official ‘Featured Free Downloads’ collection. I was sent a postcard from Sketchfab as acknowledgement of their appreciation.
 				<img src="/assets/images/pic01.jpg" alt="" data-position="center center" />
