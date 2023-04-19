@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Résumé
-description: Lorem ipsum dolor est
 image: assets/images/pic09.jpg
 nav-menu: true
 show-tile: true
