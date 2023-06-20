@@ -70,18 +70,11 @@ present).
 - Interests: Drawing, painting, computerized 3D modelling, gaming.
 
 ## REFERENCES
-- Sarah Baylus
-Lead Writer at Larian Studios
-Team Supervisor for the development of Ventilate (2022)
+- Sarah Baylus, Lead Writer at Larian Studios and Team Supervisor for the development of Ventilate (2022)
 
--Sean Blanchfield
-Former CTO of Jolt Online Gaming
-Co-Founder and Former CTO of DemonWare
+- Sean Blanchfield, Former CTO of Jolt Online Gaming and Co-Founder and Former CTO of DemonWare
 
--Damian Scattergood
-Founder of Scattergood Studio
-Founder of Scatz Computer Games
-Managing Director STAR Translation
+- Damian Scattergood, Founder of Scattergood Studio, Founder of Scatz Computer Games and Managing Director STAR Translation
 
 (*Contact details available upon request*)
 
