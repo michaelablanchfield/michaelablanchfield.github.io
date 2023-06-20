@@ -73,6 +73,7 @@ present).
 - **Sarah Baylus**, Lead Writer at Larian Studios and Team Supervisor for the development of Ventilate.
 - **Damian Scattergood**, Founder of Scattergood Studio, Founder of Scatz Computer Games and Managing Director STAR Translation.
 - **Sean Blanchfield**, Former CTO of Jolt Online Gaming and Co-Founder and Former CTO of DemonWare.
+
 (*Contact details available upon request.*)
 
 
