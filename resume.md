@@ -66,7 +66,7 @@ present).
 - Typing speed of approximately 80 words per minute.
 
 ## SKILLS & INTERESTS
-- Skills: Creativity, artistic interest, attention to detail, visual thinking, time management, problemsolving, persistence, strong work ethic, honesty.
+- Skills: Creativity, artistic interest, attention to detail, visual thinking, time management, problem solving, persistence, strong work ethic, honesty.
 - Interests: Drawing, painting, computerized 3D modelling, gaming.
 
 ## REFERENCES
