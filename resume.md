@@ -45,7 +45,8 @@ modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%
 - Learned the basics of software architecture, web authoring, app development, C# and Java
 programming.
 
-##WORK EXPERIENCE
+## WORK EXPERIENCE
+
 - Currently involved in the publication of the game Ventilate in collaboration with a team of friends.
 Working closely with Damien Scattergood, the founder of a new startup game company, Scattergood
 Studios, to improve the game and to ensure successful publication (2023 - present).
@@ -69,6 +70,19 @@ present).
 - Interests: Drawing, painting, computerized 3D modelling, gaming.
 
 ## REFERENCES
-(*Available upon request*)
+- Sarah Baylus
+Lead Writer at Larian Studios
+Team Supervisor for the development of Ventilate (2022)
+
+-Sean Blanchfield
+Former CTO of Jolt Online Gaming
+Co-Founder and Former CTO of DemonWare
+
+-Damian Scattergood
+Founder of Scattergood Studio
+Founder of Scatz Computer Games
+Managing Director STAR Translation
+
+(*Contact details available upon request*)
 
 
