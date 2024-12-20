@@ -41,7 +41,7 @@ order: 1
 					<p style="font-weight: lighter">Technological University of Dublin, 2018 – 2022</p>
 				</h4>
 				<ol>
-					<li>Developed a fast-paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team of five. I was responsible for creating the logo, all the environmental assets and a portion of the game's UI sprites. <a href="https://inkfoxstudios.itch.io/ventilate">Download Ventilate from itch.io.</a></li>
+					<li>Developed a fast-paced single-player ‘bullet-hell’ shooter game called Ventilate for my final year project. I was the primary 3D artist and secondary 2D artist in a team of five. I was responsible for creating the logo, all the environmental assets and a portion of the game's UI sprites. <a href="https://store.steampowered.com/app/3364220/Ventilate/?beta=0">Download Ventilate on Steam.</a></li>
 					<li>Developed an online educational farming game called Farmyard Architect for AgriKids.ie in 2021. I was the primary 2D and 3D artist in a team of five, where I was responsible for creating all the environmental assets and in-game character models.
 				<a href="https://kidzone.agrikids.ie/gamezone/farmyard-architect/">Play Farmyard Architect online here.</a></li>
 					<li>Recreated a short cinematic scene from Netflix’s <i>Castlevania</i> (2017) into 3D using the Unity3D engine in 2021 as an individual project. Evironmental asset meshes and Dracula himself were modelled via Sketchup and Adobe 3ds Max. This assignment received a grade of 81%.</li>
